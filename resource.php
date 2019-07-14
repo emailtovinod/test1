@@ -1,7 +1,7 @@
 <html>
 <title>PoD Resource Management</title>
 <body>
-<h1>Current Resource Settings</h1>
+<h1><center>Current Resource Settings</center></h1>
 
 <?php
   $my_pod_name = getenv('my_pod_name');
